@@ -1,7 +1,5 @@
-Technologies: BeautifulSoup4, Python, VS Code
+Utilizing BeautifulSoup4, Python, and VS Code, this CLI application lets you effortlessly download your preferred podcast episodes as MP3 files to your computer.
 
-A application that allows you to download your favorite podcast episodes onto your computer as mp3 files. 
+Just supply the podcast's RSS feed link along with a search term, and the application will meticulously search through all episodes within the specified podcast, delivering those that precisely match your search criteria.
 
-Simply provide the podcast's rssfeed link and a search term, the application will search through all of the episodes within the provided podcast to get the ones that match your search term. 
-
-If a directory isn't provided, the episodes will be downloaded into your "Downloads" folder.
+In the absence of a designated directory, the downloaded episodes will be seamlessly stored in your "Downloads" folder.
