@@ -1,6 +1,6 @@
 Technologies: BeautifulSoup4, Python, VS Code
 
-A application that allows you to download your favorite podcast episodes onto your computer. 
+A application that allows you to download your favorite podcast episodes onto your computer as mp3 files. 
 
 Simply provide the podcast's rssfeed link and a search term, the application will search through all of the episodes within the provided podcast to get the ones that match your search term. 
 
