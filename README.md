@@ -1,4 +1,4 @@
-Technologies: BeautifulSoup4, Python
+Technologies: BeautifulSoup4, Python, VS Code
 
 A application that allows you to download your favorite podcast episodes onto your computer. 
 
